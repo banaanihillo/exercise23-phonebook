@@ -1,3 +1,3 @@
-# Deployment
+# Splendid Sulky River
 
-[Deployed phonebook](https://splendid-sulky-river.glitch.me/)
+[Phonebook deployment](https://splendid-sulky-river.glitch.me/)
